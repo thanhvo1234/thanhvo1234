@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhvo1234&label=Profile%20views&color=0e75b6&style=flat" alt="thanhvo1234" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and .NET**
+- 🌱 I’m currently learning **ReactJS and ASP.NET Core**
 
 - 📫 How to reach me **meimoushu@gmail.com**
 
